@@ -3,7 +3,7 @@ title:  "Extended Kalman Filter"
 categories: post
 mathjax: true
 ---
-<iframe src="https://giphy.com/embed/QWX5ZlErusFR9Hqbsd" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/QWX5ZlErusFR9Hqbsd">via GIPHY</a></p>
+![EKF](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_EKF/EKF_gif.gif)
 
 ## Extended Kalman Filter (EKF) result (please click the thumbnail):
 [![EKF_Performance](https://img.youtube.com/vi/S0vlHj43xYg/hqdefault.jpg)](https://youtu.be/S0vlHj43xYg) 
