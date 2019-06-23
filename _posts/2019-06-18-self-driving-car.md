@@ -3,6 +3,8 @@ title:  "Self Driving Car"
 categories: post
 mathjax: true
 ---
+![self driving car gif](https://i.makeagif.com/media/6-23-2019/bG6tWd.gif)
+
 # Simulation result #1 (path following):
  [![Watch the video](https://img.youtube.com/vi/YuUtXkjyugA/hqdefault.jpg)](https://youtu.be/YuUtXkjyugA)
 # Simulation result #2 (classifiation):
