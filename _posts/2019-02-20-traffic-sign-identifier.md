@@ -2,8 +2,7 @@
 title:  "Traffic Sign Recognition"
 categories: post
 ---
-
----
+![trafficsign_identifier](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_TrafficIdentifier/softmaxprobabilities5.png)
 
 ## Braing storming
 
