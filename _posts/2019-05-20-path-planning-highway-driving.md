@@ -3,7 +3,7 @@ title:  "Path Planning"
 categories: post
 mathjax: true
 ---
-<iframe src="https://giphy.com/embed/VFeyzwNLAXL1P0sStp" width="480" height="363" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/VFeyzwNLAXL1P0sStp">via GIPHY</a></p>
+![Path_planning](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_Path_planning/path_planning_gif.gif)
 
 ## Simulation result (please click the below thumbnail to view a video):
 [![video result](https://img.youtube.com/vi/FiTJYFPapfI/hqdefault.jpg)](https://youtu.be/FiTJYFPapfI) 
