@@ -3,17 +3,18 @@ title:  "PID Controller"
 categories: post
 mathjax: true
 ---
-
-## What to do:
-- Engage a feedback controller to make the vehicle follow the given path. 
-
 ## Result (please click the thumbnails for viewing the video):
 
 [![PIDController video](https://img.youtube.com/vi/xv-AnkbR_LM/maxresdefault.jpg)](https://youtu.be/xv-AnkbR_LM)
 
-I see why the reviewer faced the issue to run simulation. 
-Basically, PID code uses argc,argv command to take PID gains. 
-Therefore, I suggested to put the following on Udacity's Workspace command line:
+
+## What to do:
+- Engage a feedback controller to make the vehicle follow the given path. 
+
+## To reviewer:
+- I see why the reviewer faced the issue to run simulation. 
+- Basically, PID code uses argc,argv command to take PID gains. 
+- Therefore, I suggested to put the following on Udacity's Workspace command line:
 ```
 ./pid -0.05 0 -2.5
 ``` 
