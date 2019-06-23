@@ -3,7 +3,7 @@ title:  "Behavioral Planning"
 categories: post
 mathjax: true
 ---
-<iframe src="https://giphy.com/embed/LmfsgsT7bjZnW95f8Y" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/behaviouralcloninggif-LmfsgsT7bjZnW95f8Y">via GIPHY</a></p>
+![Behavioral_Cloning](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_Behavioral_cloning/behavioral_cloning_4gif.gif)
 
 ## Final result (please click the below thumbnail to play a video):
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/HOfHpUSmLMU/hqdefault.jpg)](https://youtu.be/HOfHpUSmLMU "BehavioralCloning")
