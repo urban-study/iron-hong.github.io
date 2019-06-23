@@ -3,9 +3,7 @@ title:  "Advanced Lane Finding"
 categories: post
 mathjax: true
 ---
-
 ## Final result-Please click the thumbnail to view the video:
-
 [![video result](https://img.youtube.com/vi/w1pMOmGl-lU/hqdefault.jpg)](https://youtu.be/w1pMOmGl-lU) 
 
 ## Braingstorming:
