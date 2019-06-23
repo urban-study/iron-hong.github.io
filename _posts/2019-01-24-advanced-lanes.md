@@ -3,7 +3,7 @@ title:  "Advanced Lane Finding"
 categories: post
 mathjax: true
 ---
-[!advanced_lane](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_advanced_lane/advanced_lane.gif)
+![advanced_lane](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_advanced_lane/advanced_lane.gif)
 
 ## Final result-Please click the thumbnail to view the video:
 [![video result](https://img.youtube.com/vi/w1pMOmGl-lU/hqdefault.jpg)](https://youtu.be/w1pMOmGl-lU) 
