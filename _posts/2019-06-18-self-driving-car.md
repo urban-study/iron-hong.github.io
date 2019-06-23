@@ -3,7 +3,7 @@ title:  "Self Driving Car"
 categories: post
 mathjax: true
 ---
-![self driving car gif](https://i.makeagif.com/media/6-23-2019/bG6tWd.gif)
+<a href="/gif/self-driving-car-gif-bG6tWd" title="self driving car gif"><img src="https://i.makeagif.com/media/6-23-2019/bG6tWd.gif" alt="self driving car gif"></a><div style="font-size:11px;">make <a href="/" title="make a gif">science GIFs</a> like this at MakeaGif</div>
 
 # Simulation result #1 (path following):
  [![Watch the video](https://img.youtube.com/vi/YuUtXkjyugA/hqdefault.jpg)](https://youtu.be/YuUtXkjyugA)
