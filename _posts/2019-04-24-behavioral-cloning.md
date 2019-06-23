@@ -4,7 +4,7 @@ categories: post
 mathjax: true
 ---
 ## Final result (please click the below thumbnail to play a video):
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/HdkFegM3sVc/0.jpg)](https://www.youtube.com/watch?v=HdkFegM3sVc "BehavioralCloning")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/HOfHpUSmLMU/hqdefault.jpg)](https://youtu.be/HOfHpUSmLMU "BehavioralCloning")
 
 ## Intro:
 
@@ -249,7 +249,7 @@ I used this training data for training the model. The validation set helped dete
 ![after drop out epochs=7][image5]
 
 #### d. Here is the final result of video record during autonomous mode driving:
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/HdkFegM3sVc/0.jpg)](https://www.youtube.com/watch?v=HdkFegM3sVc "BehavioralCloning")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/HOfHpUSmLMU/hqdefault.jpg)](https://youtu.be/HOfHpUSmLMU "BehavioralCloning")
 #### e. Remark:
 
 - Could try different modeling architectural strategy. 
