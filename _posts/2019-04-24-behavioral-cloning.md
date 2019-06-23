@@ -4,7 +4,7 @@ categories: post
 mathjax: true
 ---
 
-## Final result:
+## Final result (please click the below thumbnail to play a video):
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/HdkFegM3sVc/0.jpg)](https://www.youtube.com/watch?v=HdkFegM3sVc "BehavioralCloning")
 
