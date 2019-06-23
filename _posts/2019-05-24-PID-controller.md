@@ -4,7 +4,6 @@ categories: post
 mathjax: true
 ---
 ## Result (please click the thumbnails for viewing the video):
-
 [![PIDController video](https://img.youtube.com/vi/xv-AnkbR_LM/maxresdefault.jpg)](https://youtu.be/xv-AnkbR_LM)
 
 
