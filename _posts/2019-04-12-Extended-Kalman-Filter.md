@@ -3,12 +3,8 @@ title:  "Extended Kalman Filter"
 categories: post
 mathjax: true
 ---
-
 ## Extended Kalman Filter (EKF) result (please click the thumbnail):
-
 [![EKF_Performance](https://img.youtube.com/vi/S0vlHj43xYg/hqdefault.jpg)](https://youtu.be/S0vlHj43xYg) 
-
-
 
 
 # Extended Kalman Filter Project Starter Code
