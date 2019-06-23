@@ -3,7 +3,7 @@ title:  "PID Controller"
 categories: post
 mathjax: true
 ---
-<iframe src="https://giphy.com/embed/ZEa2Hf5OgVTwEPLlv4" width="480" height="465" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ZEa2Hf5OgVTwEPLlv4">via GIPHY</a></p>
+![PID](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_PID/PID_gif.gif)
 
 ## Result (please click the thumbnails for viewing the video):
 [![PIDController video](https://img.youtube.com/vi/xv-AnkbR_LM/hqdefault.jpg)](https://youtu.be/xv-AnkbR_LM)
