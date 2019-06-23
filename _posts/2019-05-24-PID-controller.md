@@ -4,7 +4,7 @@ categories: post
 mathjax: true
 ---
 ## Result (please click the thumbnails for viewing the video):
-[![PIDController video](https://img.youtube.com/vi/xv-AnkbR_LM/maxresdefault.jpg)](https://youtu.be/xv-AnkbR_LM)
+[![PIDController video](https://img.youtube.com/vi/xv-AnkbR_LM/hqdefault.jpg)](https://youtu.be/xv-AnkbR_LM)
 
 
 ## What to do:
@@ -152,7 +152,7 @@ double PID::TotalError() {
 
 ## Submission result:
 
-[![PIDController video](https://img.youtube.com/vi/xv-AnkbR_LM/maxresdefault.jpg)](https://youtu.be/xv-AnkbR_LM)
+[![PIDController video](https://img.youtube.com/vi/xv-AnkbR_LM/hqdefault.jpg)](https://youtu.be/xv-AnkbR_LM)
 
 ## Final notes
 - I spent too much time to fix compiler issue on Udacity's workspace. (posted a solution here: [PID workspace issue](https://knowledge.udacity.com/questions/35969))
