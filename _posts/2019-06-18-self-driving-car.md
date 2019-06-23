@@ -3,7 +3,10 @@ title:  "Self Driving Car"
 categories: post
 mathjax: true
 ---
-
+# Simulation result #1 (path following):
+ [![Watch the video](https://img.youtube.com/vi/YuUtXkjyugA/maxresdefault.jpg)](https://youtu.be/YuUtXkjyugA)
+# Simulation result #2 (classifiation):
+[![Watch the video2](https://img.youtube.com/vi/g31nLPbD8Ps/maxresdefault.jpg)](https://youtu.be/g31nLPbD8Ps)
 ## Submission note:
 
    - Path following doesn't work when camera is turned on (without camera on, it works) @ workspace environment, rospy rate has been adjusted @ tl_detector as 5hz @waypoint_updater as 15hz, but no luck. 
@@ -11,10 +14,9 @@ mathjax: true
    - It took so long time to troubleshoot and mitigate the latency. 
    - I had asked Udacity to look at if the simulator has changed at some point.
    - Until the discussion happens with Udacity, what I can demonstrate for the final submission are, 
-     - without camera on, path following works. here is the video: [![Watch the video](https://img.youtube.com/vi/YuUtXkjyugA/maxresdefault.jpg)](https://youtu.be/YuUtXkjyugA)
-     - at steady state manual mode in front of the nearest traffic signal, the classifier detects the red stop signal correctly.
-       Here is the video:
-       [![Watch the video2](https://img.youtube.com/vi/g31nLPbD8Ps/maxresdefault.jpg)](https://youtu.be/g31nLPbD8Ps)
+     - without camera on, path following works. See simulation result #1.
+     - at steady state manual mode in front of the nearest traffic signal, the classifier detects the red stop signal correctly. See simulation result #2.
+
        
 
 ## Simulation environment:
