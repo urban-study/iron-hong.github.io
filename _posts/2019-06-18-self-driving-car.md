@@ -4,9 +4,9 @@ categories: post
 mathjax: true
 ---
 # Simulation result #1 (path following):
- [![Watch the video](https://img.youtube.com/vi/YuUtXkjyugA/maxresdefault.jpg)](https://youtu.be/YuUtXkjyugA)
+ [![Watch the video](https://img.youtube.com/vi/YuUtXkjyugA/hqdefault.jpg)](https://youtu.be/YuUtXkjyugA)
 # Simulation result #2 (classifiation):
-[![Watch the video2](https://img.youtube.com/vi/g31nLPbD8Ps/maxresdefault.jpg)](https://youtu.be/g31nLPbD8Ps)
+[![Watch the video2](https://img.youtube.com/vi/g31nLPbD8Ps/hqdefault.jpg)](https://youtu.be/g31nLPbD8Ps)
 
 ## Submission note:
 
