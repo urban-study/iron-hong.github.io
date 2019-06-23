@@ -3,7 +3,7 @@ title:  "Particle Filter"
 categories: post
 mathjax: true
 ---
-<iframe src="https://giphy.com/embed/Za8BPyKMivTK9rTrIf" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Za8BPyKMivTK9rTrIf">via GIPHY</a></p>
+![particle_filter](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_Particle_filter/particle_filter_gif.gif)
 
 ## Particle filter simulation result (please click the below thumbnail):
 [![video result](https://img.youtube.com/vi/phv0iByFB4E/hqdefault.jpg)](https://youtu.be/phv0iByFB4E) 
