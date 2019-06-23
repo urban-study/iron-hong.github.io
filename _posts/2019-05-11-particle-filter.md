@@ -3,8 +3,7 @@ title:  "Particle Filter"
 categories: post
 mathjax: true
 ---
-
-# Particle filter simulation result (please click the below thumbnail):
+## Particle filter simulation result (please click the below thumbnail):
 
 [![video result](https://img.youtube.com/vi/phv0iByFB4E/hqdefault.jpg)](https://youtu.be/phv0iByFB4E) 
 
