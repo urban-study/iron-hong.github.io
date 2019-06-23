@@ -7,6 +7,7 @@ mathjax: true
  [![Watch the video](https://img.youtube.com/vi/YuUtXkjyugA/maxresdefault.jpg)](https://youtu.be/YuUtXkjyugA)
 # Simulation result #2 (classifiation):
 [![Watch the video2](https://img.youtube.com/vi/g31nLPbD8Ps/maxresdefault.jpg)](https://youtu.be/g31nLPbD8Ps)
+
 ## Submission note:
 
    - Path following doesn't work when camera is turned on (without camera on, it works) @ workspace environment, rospy rate has been adjusted @ tl_detector as 5hz @waypoint_updater as 15hz, but no luck. 
