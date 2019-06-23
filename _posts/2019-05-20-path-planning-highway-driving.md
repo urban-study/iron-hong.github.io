@@ -4,6 +4,10 @@ categories: post
 mathjax: true
 ---
 
+## Simulation result (please click the below thumbnail to view a video):
+[![video result](https://img.youtube.com/vi/FiTJYFPapfI/hqdefault.jpg)](https://youtu.be/FiTJYFPapfI) 
+
+
 ## Things to consider:
 - how to make the car goes straight
 - how to make the car follow the path 
@@ -146,9 +150,10 @@ print out command used to display essential information.each corner case display
                   }
 
 ```
-## Result:
+## Simulation result (please click the below thumbnail):
+[![video result](https://img.youtube.com/vi/FiTJYFPapfI/hqdefault.jpg)](https://youtu.be/FiTJYFPapfI) 
 
-![success](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_Path_planning/success.png)
+
 
 ## Discussion:
 
