@@ -356,6 +356,7 @@ Visualization message transportation through topic between nodes (similar with [
    
 Before classification/detection:
 ![original](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_Selfdriving_final/red_light_detection0.png)
+
 After classification/detection:
 ![opencvdetection](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_Selfdriving_final/red_light_detection1.png)
 ![opencvdetection](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_Selfdriving_final/red_light_detection2.png)
