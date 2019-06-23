@@ -2,6 +2,7 @@
 title:  "Behavioral Planning"
 categories: post
 mathjax: true
+thumb_image_url: https://gph.is/g/469RKkw
 ---
 ## Final result (please click the below thumbnail to play a video):
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/HOfHpUSmLMU/hqdefault.jpg)](https://youtu.be/HOfHpUSmLMU "BehavioralCloning")
