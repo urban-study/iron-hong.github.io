@@ -4,15 +4,16 @@ categories: post
 ---
 ![Unreal_example](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/Unreal_Scratch/ezgif.com-video-to-gif.gif)
 
->- I have been practicing Unreal tool/C++ to create a small project. 
->-
->- [Unreal#1](https://youtu.be/3-c662M4TWY)
->-
->- [Unreal#2](https://youtu.be/zoBNX6o2wbY)
->-
->- [Unreal#3](https://youtu.be/nIy6PGpdt-8)
->-
->- Here is the learning materials which I have been practicing so far:
+   >- I have been practicing Unreal tool/C++ to create a small project. 
+   >
+   >- [Unreal#1](https://youtu.be/3-c662M4TWY)
+   >
+   >- [Unreal#2](https://youtu.be/zoBNX6o2wbY)
+   >
+   >- [Unreal#3](https://youtu.be/nIy6PGpdt-8)
+
+
+   - Here is the learning materials which I have been practicing so far:
 
    - A.	[Getting started in Unreal Engine](https://academy.unrealengine.com/home/learningPath/90588)
      - [Your first hour with unreal engine](https://academy.unrealengine.com/home/learningPath/90588)
