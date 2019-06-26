@@ -9,4 +9,6 @@ mathjax: true
 >
 >- 2. [Unreal VS extension](https://docs.unrealengine.com/en-US/Programming/Development/VisualStudioSetup/UnrealVS/index.html)
 >
->- 3. [Visual Assist- this is a paid s/w helps development] (https://www.wholetomato.com/)
+>- 3. [Visual Assist- this is a paid s/w helps development](https://www.wholetomato.com/)
+>
+>- 4. turn off squggles @ VS options->Text Editor->C/C++>Advanced->Intellisense->Disable Squiggles "True"
