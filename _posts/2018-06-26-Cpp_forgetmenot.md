@@ -35,7 +35,7 @@ int main()
     std::cout<<"the address of PointerTonum stores the value of num as<< *pointerTonum<<endl;
 }
 ```
-- To access member in a class, use ->. [For instance](http://www.cplusplus.com/forum/beginner/53293/), foo->bar means *foo.bar.
+- To access a member in a class, use ->. [For instance](http://www.cplusplus.com/forum/beginner/53293/), foo->bar means *foo.bar.
 
 
 - [Reference](https://classroom.udacity.com/courses/ud999)
