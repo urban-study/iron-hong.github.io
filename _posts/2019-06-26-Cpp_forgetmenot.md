@@ -24,5 +24,15 @@ int main()
 num = 342
 address of num is at &num = 0x7ffd2a738f6c
 ```
-
+- Dereferencing: if you want to refer to the value based on the address, it's called dereferencing. 
+```
+#include <iostream>
+int main()
+{
+    int num = 32;
+    int * pointerTonum = &num;
+    std::cout<<"pointerTonum stores the address of num as"<< pointerTonum<<endl;
+    std::cout<<"the address of PointerTonum stores the value of num as<< *pointerTonum<<endl;
+}
+```
 - [Reference](https://classroom.udacity.com/courses/ud999)
