@@ -36,6 +36,6 @@ int main()
 }
 ```
 - To access a member in a class, use ->. [For instance](http://www.cplusplus.com/forum/beginner/53293/), foo->bar means *foo.bar.
-
+- To access a function in a class, use:: 
 
 - [Reference](https://classroom.udacity.com/courses/ud999)
