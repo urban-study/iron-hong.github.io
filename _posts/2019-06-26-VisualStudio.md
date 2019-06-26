@@ -5,7 +5,7 @@ mathjax: true
 ---
 >- I am putting few good tips for Visual Studio (VS) setting to work with Unreal engine. 
 
->- 1. [setting up VS](https://docs.unrealengine.com/en-US/Programming/Development/VisualStudioSetup/index.html)
+>- 1. [Setting up VS](https://docs.unrealengine.com/en-US/Programming/Development/VisualStudioSetup/index.html)
 >
 >- 2. [Unreal VS extension](https://docs.unrealengine.com/en-US/Programming/Development/VisualStudioSetup/UnrealVS/index.html)
 >
