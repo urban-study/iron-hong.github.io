@@ -34,19 +34,19 @@ int main()
     std::cout<<"the address of PointerTonum stores the value of num as<< *pointerTonum<<endl;
 }
 ```
-- To access a member in a class, use -> . [For instance](http://www.cplusplus.com/forum/beginner/53293/), foo->bar means *foo.bar.
-- To access a function in a class, use :: .
-- Constructor is used to set the intial value of the class. i.e. ClassName::ClassName()
+- To access a member in a class, use ```->```. [For instance](http://www.cplusplus.com/forum/beginner/53293/), foo->bar means *foo.bar.
+- To access a function in a class, use ```::```.
+- Constructor is used to set the intial value of the class. i.e. ```ClassName::ClassName()```
 - #pragma once is to cause the current source file to be included only once in a single compilation.
-- a class (A) after the [single colon](http://www.cplusplus.com/forum/beginner/235722/) from another class (B) means, 
-B is the inherited class from A. Here is the example from Unreal source code:
+- a class (A) after ```:```([single colon](http://www.cplusplus.com/forum/beginner/235722/)) from another class (B) means, 
+B is the inherited class from A. Here is an example from Unreal source code:
 ```
 class ENGINE_API USphereComponent : public UShapeComponent
 {
     // code
 }
 ```
-- [Overloading](https://www.tutorialspoint.com/cplusplus/cpp_overloading.htm): C++ allows the same function name could be used for multiple implementation. 
+- [Overloading](https://www.tutorialspoint.com/cplusplus/cpp_overloading.htm): C++ allows the same function name could be used for multiple implementation. Here is an example code:
 
 ```
 #include <iostream>
