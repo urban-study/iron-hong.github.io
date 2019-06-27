@@ -35,8 +35,8 @@ int main()
     std::cout<<"the address of PointerTonum stores the value of num as<< *pointerTonum<<endl;
 }
 ```
-- To access a member in a class, use ->. [For instance](http://www.cplusplus.com/forum/beginner/53293/), foo->bar means *foo.bar.
-- To access a function in a class, use ::.
+- To access a member in a class, use -> . [For instance](http://www.cplusplus.com/forum/beginner/53293/), foo->bar means *foo.bar.
+- To access a function in a class, use :: .
 - Constructor is used to set the intial value of the class. i.e. ClassName::ClassName()
 - #pragma once is to cause the current source file to be included only once in a single compilation.
 - a class (A) after the [single colon](http://www.cplusplus.com/forum/beginner/235722/) from another class (B) means, 
