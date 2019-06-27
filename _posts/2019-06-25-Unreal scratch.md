@@ -33,6 +33,7 @@ categories: post
         - [Quick start Unreal guide](https://docs.unrealengine.com/en-US/Programming/QuickStart/index.html)
         - [C++ programming in Unreal Engine (UE) 4.](https://docs.unrealengine.com/en-US/Programming/Introduction/index.html)
         - [C++ battery collector](https://www.youtube.com/watch?v=mSRov77hNR4&list=PLZlv_N0_O1gYup-gvJtMsgJqnEB_dGiM4&index=1)
+        - [Udemy Unreal C++](https://www.udemy.com/unrealengine-cpp)
    
    
    
