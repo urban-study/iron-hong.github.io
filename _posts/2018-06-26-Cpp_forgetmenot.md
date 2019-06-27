@@ -80,7 +80,7 @@ int main()
 }
 ```
 
-- template 
+- [template](https://en.m.wikipedia.org/wiki/Template_(C%2B%2B)): it allows a function or class to work on many different data types without being rewritten for each one. For instance, foo<T> is a template and T is the template parameter. 
 
 ```
 void AFPSObjectiveActor::NotifyActorBeginOverlap(AActor* OtherActor)
@@ -88,7 +88,7 @@ void AFPSObjectiveActor::NotifyActorBeginOverlap(AActor* OtherActor)
 	Super::NotifyActorBeginOverlap(OtherActor);
 	PlayEffects();
 
-	AFPSCharacter* MyCharacter = **Cast<AFPSCharacter>**(OtherActor);
+	AFPSCharacter* MyCharacter = Cast<AFPSCharacter>(OtherActor);
 	if (MyCharacter)
 	{
 		MyCharacter->bIsCarryingObjective = true;
@@ -96,9 +96,6 @@ void AFPSObjectiveActor::NotifyActorBeginOverlap(AActor* OtherActor)
 
 }
 ```
-
-
-
 
 
 - Reference 
