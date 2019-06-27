@@ -43,4 +43,4 @@ int main()
 
 - Reference 
     
-    -[Udacity C++ free course](https://classroom.udacity.com/courses/ud999)
+    - [Udacity C++ free course](https://classroom.udacity.com/courses/ud999)
