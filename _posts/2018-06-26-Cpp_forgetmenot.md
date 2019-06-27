@@ -3,7 +3,7 @@ title:  "C++ practice"
 categories: post
 mathjax: true
 ---
-I try to collect C++ references which I keep forgetting. 
+I try to collect C++ references while I am practicing Unreal C++ implementation.  
 
 
 - Class: class is a [custom datatype](https://youtu.be/-EwsSCObiRw). It could be a data or a function. 
@@ -47,6 +47,40 @@ class ENGINE_API USphereComponent : public UShapeComponent
     // code
 }
 ```
+- [Overloading](https://www.tutorialspoint.com/cplusplus/cpp_overloading.htm): C++ allows the same function name could be used for multiple implementation. 
+
+```
+#include <iostream>
+using namespace std;
+class printNum{
+    public:
+        void print(int i){
+            cout<<"print integer: "<< i <<endl;
+        }
+        void print(double f){
+            cout<<"print float: "<< f <<endl;
+        }
+        void print(char*c){
+            cout<<"print character: "<< c <<endl;
+        }
+
+}
+
+int main()
+{
+    printNum pn;
+
+    // print integer
+    pn.print(23);
+    // print float
+    pn.print(234.23);
+    // print character
+    pn.print("hello C++");
+
+    return 0;
+}
+```
+
 - Reference 
     
     - [Udacity C++ free course](https://classroom.udacity.com/courses/ud999)
