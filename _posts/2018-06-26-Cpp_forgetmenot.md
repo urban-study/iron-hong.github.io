@@ -39,8 +39,13 @@ int main()
 - To access a function in a class, use:: 
 - Constructor is used to set the intial value of the class. i.e. ClassName::ClassName()
 - #pragma once is to cause the current source file to be included only once in a single compilation.
-
-
+- a class (A) after the [single colon](http://www.cplusplus.com/forum/beginner/235722/) from another class (B) means B is the inherited class from A. Here is the example from Unreal source code:
+```
+class ENGINE_API USphereComponent : public UShapeComponent
+{
+    // code
+}
+```
 - Reference 
     
     - [Udacity C++ free course](https://classroom.udacity.com/courses/ud999)
