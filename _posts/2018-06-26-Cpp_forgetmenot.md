@@ -38,5 +38,8 @@ int main()
 - To access a member in a class, use ->. [For instance](http://www.cplusplus.com/forum/beginner/53293/), foo->bar means *foo.bar.
 - To access a function in a class, use:: 
 - Constructor is used to set the intial value of the class. i.e. ClassName::ClassName()
+- #pragma once is to cause the current source file to be included only once in a single compilation.
 
-- [Reference](https://classroom.udacity.com/courses/ud999)
+
+- Reference 
+  -[Udacity C++ free course](https://classroom.udacity.com/courses/ud999)
