@@ -3,8 +3,7 @@ title:  "C++ practice"
 categories: post
 mathjax: true
 ---
-I try to collect C++ references while I am practicing Unreal C++ implementation.  
-
+I try to put C++ references collected while I am practicing [Unreal C++ implementation](https://www.udemy.com/unrealengine-cpp/).  
 
 - Class: class is a [custom datatype](https://youtu.be/-EwsSCObiRw). It could be a data or a function. 
 - Pointer: pointer is an address of a variable, but why [do you need pointer?](https://youtu.be/egXLylrJeic) and [how do you use it?](https://youtu.be/UCWWObpNUZw)
