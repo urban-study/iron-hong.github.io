@@ -106,6 +106,17 @@ protected:
 	UBoxComponent* OverlapComp;
 }
 ```
+- [Casting](https://www.geeksforgeeks.org/static_cast-in-c-type-casting-operators/): It's an operator which forces a data type to be converted into another. 
+```
+#include <iostream>
+using namespace std;
+int main()
+{
+	float f = 5.4;
+	int a = static_cast<int>(f);
+	cout <<a;
+}
+```
 - Reference 
     
     - [Udacity C++ free course](https://classroom.udacity.com/courses/ud999)
