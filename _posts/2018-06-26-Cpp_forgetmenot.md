@@ -7,6 +7,7 @@ I try to collect C++ syntax while I am practicing [Unreal C++ implementation](ht
 
 - Class: class is a [custom datatype](https://youtu.be/-EwsSCObiRw). It could be a data or a function. 
 - Pointer: pointer is an address of a variable, but why [do you need pointer?](https://youtu.be/egXLylrJeic) and [how do you use it?](https://youtu.be/UCWWObpNUZw)
+
 ```
 #include <iostream>
 
@@ -23,6 +24,7 @@ num = 342
 address of num is at &num = 0x7ffd2a738f6c
 ```
 - Dereferencing: if you want to refer to the value based on the address, it's called dereferencing. 
+
 ```
 #include <iostream>
 int main()
@@ -39,6 +41,7 @@ int main()
 - #pragma once is to cause the current source file to be included only once in a single compilation.
 - a class (A) after ```:```([single colon](http://www.cplusplus.com/forum/beginner/235722/)) from another class (B) means, 
 B is the inherited class from A. Here is an example from Unreal source code:
+
 ```
 class ENGINE_API USphereComponent : public UShapeComponent
 {
@@ -46,6 +49,7 @@ class ENGINE_API USphereComponent : public UShapeComponent
 }
 ```
 - [Overloading](https://www.tutorialspoint.com/cplusplus/cpp_overloading.htm): C++ allows the same function name could be used for multiple implementation. Here is an example code:
+
 ```
 #include <iostream>
 using namespace std;
@@ -79,6 +83,7 @@ int main()
 ```
 
 - [Template](https://en.m.wikipedia.org/wiki/Template_(C%2B%2B)): it allows a function or class to work on many different data types without being rewritten for each one. For instance, ```foo<T>``` is a template and ```T``` is the template parameter. 
+
 ```
 void AFPSObjectiveActor::NotifyActorBeginOverlap(AActor* OtherActor)
 {
@@ -94,6 +99,7 @@ void AFPSObjectiveActor::NotifyActorBeginOverlap(AActor* OtherActor)
 }
 ```
 -[Forward declaration](https://arne-mertz.de/2018/03/forward-declarations/): If the member variable is a pointer, class definition in the header file is not needed. The reason is pointers are only addresses.
+
 ```
 class UBoxComponent; // forward declaration
 class FPSGAME_API AFPSExtractionZone : Public AActor
@@ -103,6 +109,7 @@ protected:
 }
 ```
 - [Casting](https://www.geeksforgeeks.org/static_cast-in-c-type-casting-operators/): It's an operator which forces a data type to be converted into another. 
+
 ```
 #include <iostream>
 using namespace std;
