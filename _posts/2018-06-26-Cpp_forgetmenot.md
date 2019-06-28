@@ -98,7 +98,7 @@ void AFPSObjectiveActor::NotifyActorBeginOverlap(AActor* OtherActor)
 
 }
 ```
--[Forward declaration](https://arne-mertz.de/2018/03/forward-declarations/): If the member variable is a pointer, class definition in the header file is not needed. The reason is pointers are only addresses.
+- [Forward declaration](https://arne-mertz.de/2018/03/forward-declarations/): If the member variable is a pointer, class definition in the header file is not needed. The reason is pointers are only addresses.
 
 ```
 class UBoxComponent; // forward declaration
