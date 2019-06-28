@@ -7,7 +7,6 @@ I try to collect C++ syntax while I am practicing [Unreal C++ implementation](ht
 
 - Class: class is a [custom datatype](https://youtu.be/-EwsSCObiRw). It could be a data or a function. 
 - Pointer: pointer is an address of a variable, but why [do you need pointer?](https://youtu.be/egXLylrJeic) and [how do you use it?](https://youtu.be/UCWWObpNUZw)
-
 ```
 #include <iostream>
 
@@ -47,7 +46,6 @@ class ENGINE_API USphereComponent : public UShapeComponent
 }
 ```
 - [Overloading](https://www.tutorialspoint.com/cplusplus/cpp_overloading.htm): C++ allows the same function name could be used for multiple implementation. Here is an example code:
-
 ```
 #include <iostream>
 using namespace std;
@@ -81,7 +79,6 @@ int main()
 ```
 
 - [Template](https://en.m.wikipedia.org/wiki/Template_(C%2B%2B)): it allows a function or class to work on many different data types without being rewritten for each one. For instance, ```foo<T>``` is a template and ```T``` is the template parameter. 
-
 ```
 void AFPSObjectiveActor::NotifyActorBeginOverlap(AActor* OtherActor)
 {
@@ -97,7 +94,6 @@ void AFPSObjectiveActor::NotifyActorBeginOverlap(AActor* OtherActor)
 }
 ```
 -[Forward declaration](https://arne-mertz.de/2018/03/forward-declarations/): If the member variable is a pointer, class definition in the header file is not needed. The reason is pointers are only addresses.
-
 ```
 class UBoxComponent; // forward declaration
 class FPSGAME_API AFPSExtractionZone : Public AActor
