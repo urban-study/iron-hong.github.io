@@ -4,11 +4,12 @@ categories: post
 mathjax: true
 ---
 ![Path_planning](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_Path_planning/path_planning_gif.gif)
+## Summary: 
+- The aim of this project is to determine a path for the simulation vehicle to follow. The challenge is the vehicle will encounter random traffic situation. It may face slower speed vehicle in front of it.  
 
 ## Simulation result (please click the below thumbnail to view a video):
 [![video result](https://img.youtube.com/vi/FiTJYFPapfI/hqdefault.jpg)](https://youtu.be/FiTJYFPapfI) 
-## Summary: 
-- The aim of this project is to determine a path for the simulation vehicle to follow. The challenge is the vehicle will encounter random traffic situation. It may face slower speed vehicle in front of it.  
+
 
 ## Things to consider:
 - how to make the car goes straight between the lane
