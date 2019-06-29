@@ -4,7 +4,6 @@ categories: post
 mathjax: true
 ---
 ![particle_filter](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_Particle_filter/particle_filter_gif.gif)
-
 ## Summary:
  - This project is to implement 2D particle filter in C++. The particle filter will have an initial condition (GPS data) along with map and observation/controls data. 
 
