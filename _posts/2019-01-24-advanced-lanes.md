@@ -5,7 +5,7 @@ mathjax: true
 ---
 ![advanced_lane](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_advanced_lane/advanced_lane.gif)
 ## Summary:
- -  The aim of this project is to determine the lane from video stream data.
+- The aim of this project is to determine the lane from video stream data.
  
 ## Final result-Please click the thumbnail to view the video:
 [![video result](https://img.youtube.com/vi/w1pMOmGl-lU/hqdefault.jpg)](https://youtu.be/w1pMOmGl-lU) 
