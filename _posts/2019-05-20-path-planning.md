@@ -8,6 +8,7 @@ mathjax: true
 ## Simulation result (please click the below thumbnail to view a video):
 [![video result](https://img.youtube.com/vi/FiTJYFPapfI/hqdefault.jpg)](https://youtu.be/FiTJYFPapfI) 
 
+## Summary: The aim of this project is to determine a path for the simulation vehicle to follow. The challenge is the vehicle will encounter random traffic situation. It may face slower speed vehicle in front of it.  
 
 ## Things to consider:
 - how to make the car goes straight
@@ -61,20 +62,17 @@ if (prev_size > 0)
 								ref_vel += .224;
 							}
 ```
-- Udacity instructor alluded to utilize the following to determine the next lane change from the walkthrough video clip:
-1. (good) cost function per lane (or finite state machine) to determine lane change better or stay in the lane.Hybrid A* is not a recommended method to determine the optimum lane. 
-2. Try to look into 5 second in the future to find what the best lane would be. 
-3. smoothing the path is done via spline function. 
-4. look for behavioral planning quiz/ Gaussian Naive classifier as a reference to determine where to be in the future.
-5. Utilize Frenet coordinates, path smoothing via spline, then finite state machine to consider what maneuver the driver should take.  
-6. Try to look for helper function which is not used in main.cpp during walkthrough to see if how it can be useful for the lane change. 
-
+- I had conversation with Udacity instructor. Here is the summary to take into account in order to determine the next lane change:
+1. Consider a (good) cost function per lane (or finite state machine) to determine lane change better or stay in the lane.Hybrid A* is not a recommended method to determine the optimum lane. 
+2. Try to estimate traffic condition 5 seconds ahead to find what the best path would be. Look for behavioral planning quiz/ Gaussian Naive classifier as a reference to determine where to be in the future.
+3. Smoothing the path following is done via spline function. 
+4. Utilize Frenet coordinates, path smoothing via spline, then finite state machine to consider what maneuver the driver should take.  
+5. Try to look for helper function which is not used in main.cpp during walkthrough to see if how it can be useful for the lane change. 
 
 ## Skill gap
 1. Finite State Machine (FSM) 
 2. Cost function 
 3. How to utilize Finite State Machine (FSM) (or cost function) for lane change maneuver when necessary. 
-
 
 ## Work flow (after picking up some ideas from [Udacity's course material](https://www.youtube.com/watch?v=7sI3VHFPP0w&feature=youtu.be)):
 
