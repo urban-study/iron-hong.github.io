@@ -7,7 +7,6 @@ mathjax: true
 
 ## Simulation result (please click the below thumbnail to view a video):
 [![video result](https://img.youtube.com/vi/FiTJYFPapfI/hqdefault.jpg)](https://youtu.be/FiTJYFPapfI) 
-
 ## Summary: 
 - The aim of this project is to determine a path for the simulation vehicle to follow. The challenge is the vehicle will encounter random traffic situation. It may face slower speed vehicle in front of it.  
 
