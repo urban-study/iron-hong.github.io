@@ -9,8 +9,12 @@ mathjax: true
 [![PIDController video](https://img.youtube.com/vi/xv-AnkbR_LM/hqdefault.jpg)](https://youtu.be/xv-AnkbR_LM)
 
 
-## What to do:
-- Engage a feedback controller to make the vehicle follow the given path. 
+## Summary:
+- Engage a feedback controller (Proportional Integration Derivative (PID)) to let the vehicle follow the given path in the simulation.
+- Required programming language is C++. 
+- The new syntax which I was not aware of is, 
+  - argc/argv 
+  - this
 
 ## To reviewer:
 - I see why the reviewer faced the issue to run simulation. 
