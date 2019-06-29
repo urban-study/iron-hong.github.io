@@ -7,9 +7,7 @@ mathjax: true
 
 ## Final result (please click the below thumbnail to play a video):
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/HOfHpUSmLMU/hqdefault.jpg)](https://youtu.be/HOfHpUSmLMU "BehavioralCloning")
-
 ## Summary:
-
 - This project is to train model to steer the simulation vehicle to be on right track. input to the model measurement is steering angle. The vehicle images are collected alongside the steering angle turn.  
 
 ## Behavioral Cloning Project
