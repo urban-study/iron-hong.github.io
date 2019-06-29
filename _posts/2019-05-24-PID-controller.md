@@ -11,7 +11,6 @@ mathjax: true
   - [argc/argv](http://www.cplusplus.com/articles/DEN36Up4/) 
   - [this](https://stackoverflow.com/questions/16492736/what-is-the-this-pointer)
 
-
 ## Result (please click the thumbnails for viewing the video):
 [![PIDController video](https://img.youtube.com/vi/xv-AnkbR_LM/hqdefault.jpg)](https://youtu.be/xv-AnkbR_LM)
 
