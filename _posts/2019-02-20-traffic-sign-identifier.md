@@ -3,13 +3,12 @@ title:  "Traffic Sign Recognition"
 categories: post
 ---
 ![trafficsign_identifier](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_TrafficIdentifier/softmaxprobabilities5.png)
-
 ## Summary:
  - This project is to classify German traffic sign dataset using deep learning and Convolutional Nueral Network (CNN). 
  - The required tools are,
    - Python
    - Tensorflow
-   - openCV
+   - OpenCV
 
 ## Braing storming
 
