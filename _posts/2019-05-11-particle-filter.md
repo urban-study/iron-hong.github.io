@@ -10,8 +10,7 @@ mathjax: true
 ## Particle filter simulation result (please click the below thumbnail):
 [![video result](https://img.youtube.com/vi/phv0iByFB4E/hqdefault.jpg)](https://youtu.be/phv0iByFB4E) 
 
-
-# Why particle filter?
+## Why particle filter?
 
 |filter variance  |State space  |belief        |efficiency |in robotics|
 |:---             |:-           |:-            |:-         |:-         |
@@ -19,14 +18,11 @@ mathjax: true
 |Kalman filter    |continuous   |uni modal     |quadratic  |approximate|
 |Particle filter  |continuous   |multimodal    |?          |approximate|
 
-
-# A flow chart describes particle filter impmentation:
+## A flow chart describes particle filter impmentation:
 
 ![Particlefiiter_flowchart 1](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_Particle_filter/particle_filter_algorithm_flowchart.png)
 
-
-
-# Steps for implementation:
+## Steps for implementation:
 
 |sequence|algorithm flow chart|
 |:--     |:--                 |
@@ -35,35 +31,31 @@ mathjax: true
 |3       |weight updates      |
 |4       |resampling          |
 
-
-## 1. initialization
+### 1. initialization
 - Estimate position from GPS input
 - This is the most practical way to initialize the particles and generate real time output
 
-## 2. prediction
+### 2. prediction
 - Add control input(yaw rate& velocity) for all particles
 
-## 3. update
+### 3. update
 - Update particle weights using map landmark positions and feature measurements
 
-## 4. resampling
+### 4. resampling
 - resample M times drawing a prticle i proportional to its weight. 
 
-## 5. return new particle set to prediciton
+### 5. return new particle set to prediciton
 - new set of particles representing the Bayes filter posterior probability. 
 
-# Project implementation tips
+## Project implementation tips
 
-
-## 1. initialization 
+### 1. initialization 
 
 - sample Gaussian ditribution to determine particles
 - consider Gaussian sensor noise around initial GPS poisition and heading estimates
 - C++ standard library normal distribution and C++ standard library random engine function 
-
 - C++ random library supports normal distribtion class. The class receives mean (mean()) and standard deviation (stddev()) as inputs. 
-
-- example:
+- Example:
 
 ```
 std::default_random_engine eng;
@@ -148,7 +140,7 @@ void printSamples(double gps_x, double gps_y, double theta) {
 }
 ```
 
-## 2. Prediction
+### 2. Prediction
 
 - utilize motion model to predict where the vehicle would be at the next step. 
 
@@ -156,11 +148,11 @@ void printSamples(double gps_x, double gps_y, double theta) {
 
 ![motion_model1](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_Particle_filter/motion_model.png)
 
-## 3. Update
+### 3. Update
 
 ![update_step1](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_Particle_filter/update_step.png)
 
-## 4.Homogeneous transformation 
+### 4.Homogeneous transformation 
 ![Homogeneous_transform](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_Particle_filter/homogeneous_transform.png)
 
 ```
@@ -189,14 +181,14 @@ int main() {
 }
 ```
 
-## 5. Association 
+### 5. Association 
 After transforming observation into map coordinate, this step associates the transformed observation with the nearest landmark. 
 
 ![Association](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_Particle_filter/association.png)
 
 [Reference](http://ais.informatik.uni-freiburg.de/teaching/ws09/robotics2/pdfs/rob2-11-dataassociation.pdf)
 
-## 6. Particle weight
+### 6. Particle weight
 
 ![Particle_weight](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_Particle_filter/particle_weights_solution.png)
 
@@ -219,7 +211,7 @@ double multiv_prob(double sig_x, double sig_y, double x_obs, double y_obs, doubl
 	return weight;
 }
 ```
-## 7. Resampling:
+### 7. Resampling:
 
 1. Resampling wheel. what is it?
 [Video reference #1](https://www.youtube.com/watch?v=wNQVo6uOgYA)
@@ -278,11 +270,10 @@ void ParticleFilter::resample() {
 }
 ```
 
-## 8. Result:
+### 8. Result:
 
 [![video result](https://img.youtube.com/vi/phv0iByFB4E/hqdefault.jpg)](https://youtu.be/phv0iByFB4E) 
 
-## 9. Reference:
+### 9. Reference:
 
-- [Ref material for my personal record](https://docs.google.com/spreadsheets/d/1ZMtaS0Ifh5b9AcZpMV0RAKk8vmG7To65acA2ZQdAIHE/edit?usp=sharing)
 - All figures shown here is taken from Udacity's particle filter course material 
