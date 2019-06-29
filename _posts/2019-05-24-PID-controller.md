@@ -12,7 +12,7 @@ mathjax: true
 ## Summary:
 - Engage a feedback controller (Proportional Integration Derivative (PID)) to let the vehicle follow the given path in the simulation.
 - Required programming language is C++. 
-- The new syntax which I was not aware of is, 
+- The new syntax which I learned from this project are, 
   - argc/argv 
   - this
 
