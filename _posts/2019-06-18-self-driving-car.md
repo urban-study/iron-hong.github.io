@@ -5,7 +5,7 @@ mathjax: true
 ---
 ![self_drivng](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_Selfdriving_final/self_driving_car_gif.gif)
 ## Summary:
-- The purpose of this project is to drive the simulation vehicle autonomously. Over the course of the path, the vehicle will meet the traffic signal. When the traffic signal turns in red, the vehicle should stop. 
+- The purpose of this project is to drive the simulation vehicle autonomously. Over the course of the path, the vehicle will meet a few traffic signals. When the traffic signal turns in red, the vehicle should stop in front of it. 
 
 - The required tools/knowledge are
   - Python
