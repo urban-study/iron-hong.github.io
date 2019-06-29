@@ -10,6 +10,17 @@ mathjax: true
 # Simulation result #2 (classifiation):
 [![Watch the video2](https://img.youtube.com/vi/g31nLPbD8Ps/hqdefault.jpg)](https://youtu.be/g31nLPbD8Ps)
 
+
+## Summary:
+- The purpose of this project is to drive the simulation vehicle autonomously. Over the course of the path, the vehicle will meet the traffic signal. When the traffic signal turns in red, the vehicle should stop. 
+
+- The required tools/knowledge are
+  - Python
+  - OpenCV
+  - Tensorflow
+  - Keras
+  - ROS (Robotic Operating System)
+
 ## Submission note:
 
    - Path following doesn't work when camera is turned on (without camera on, it works) @ workspace environment, rospy rate has been adjusted @ tl_detector as 5hz @waypoint_updater as 15hz, but no luck. 
@@ -24,12 +35,12 @@ mathjax: true
 
 ## Simulation environment:
 
--- Python version:
+- Python version:
 ```python
 python version
 2.7.12
 ```
--- Keras version 
+- Keras version 
 ```python
 python -c "import keras; print(keras.__version__)
 2.0.8
