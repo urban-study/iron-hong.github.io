@@ -10,7 +10,6 @@ mathjax: true
 ## Simulation result (please click the below thumbnail to view a video):
 [![video result](https://img.youtube.com/vi/FiTJYFPapfI/hqdefault.jpg)](https://youtu.be/FiTJYFPapfI) 
 
-
 ## Things to consider:
 - how to make the car goes straight between the lane
 - how to make the car follow the path 
