@@ -12,7 +12,7 @@ mathjax: true
 - The aim of this project is to determine a path for the simulation vehicle to follow. The challenge is the vehicle will encounter random traffic situation. It may face slower speed vehicle in front of it.  
 
 ## Things to consider:
-- how to make the car goes straight
+- how to make the car goes straight between the lane
 - how to make the car follow the path 
 - how to reduce jerk at the cold start
 - how to reduce the vehicle speed when facing the front car to avoid collision. 
