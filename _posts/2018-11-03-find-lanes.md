@@ -4,7 +4,10 @@ categories: post
 ---
 ![find_lane](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_find_lane/challenge_1.gif)
 
->Please see [jupyter notebook](https://github.com/SeokLeeUS/Finding_Lane_Lines/blob/master/CarND-LaneLines-P1/Python_code-finding%20lane%20lines_final_submission_SeokLee_Ford-resubmit_01.ipynb)
+## Summary:
+ - The first project of Udacity self driving car nano degree is to determine the lane from images. 
+
+>Please see annotation appeared on [jupyter notebook](https://github.com/SeokLeeUS/Finding_Lane_Lines/blob/master/CarND-LaneLines-P1/Python_code-finding%20lane%20lines_final_submission_SeokLee_Ford-resubmit_01.ipynb) for more information. 
 >
 >The final output videos are shown below (click the thumbnail):
 >
