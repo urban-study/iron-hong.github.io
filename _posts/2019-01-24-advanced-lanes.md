@@ -8,6 +8,9 @@ mathjax: true
 ## Final result-Please click the thumbnail to view the video:
 [![video result](https://img.youtube.com/vi/w1pMOmGl-lU/hqdefault.jpg)](https://youtu.be/w1pMOmGl-lU) 
 
+## Summary:
+ -  The aim of this project is to determine the lane from video stream data. 
+
 ## Braingstorming:
 
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
