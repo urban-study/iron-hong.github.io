@@ -27,7 +27,6 @@ Kp (proportional gain): -0.05
 Ki (integral gain)    : 0 
 Kd (derivative gain)  : -2.5
 ```
-
 ## The important thing to run simulation on workspace environment:
 ```
 // example
