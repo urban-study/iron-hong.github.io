@@ -4,11 +4,12 @@ categories: post
 mathjax: true
 ---
 ![Behavioral_Cloning](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_Behavioral_cloning/behavioral_cloning_4gif.gif)
+## Summary:
+- This project is to train model to steer the simulation vehicle to be on right track. input to the model measurement is steering angle. The vehicle images are collected alongside the steering angle turn.  
 
 ## Final result (please click the below thumbnail to play a video):
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/HOfHpUSmLMU/hqdefault.jpg)](https://youtu.be/HOfHpUSmLMU "BehavioralCloning")
-## Summary:
-- This project is to train model to steer the simulation vehicle to be on right track. input to the model measurement is steering angle. The vehicle images are collected alongside the steering angle turn.  
+
 
 ## Behavioral Cloning Project
 
