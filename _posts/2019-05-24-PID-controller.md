@@ -4,15 +4,15 @@ categories: post
 mathjax: true
 ---
 ![PID](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_PID/PID_gif.gif)
-
-## Result (please click the thumbnails for viewing the video):
-[![PIDController video](https://img.youtube.com/vi/xv-AnkbR_LM/hqdefault.jpg)](https://youtu.be/xv-AnkbR_LM)
 ## Summary:
 - Engage a feedback controller (Proportional Integration Derivative (PID)) to let the vehicle follow the given path in the simulation.
 - Required programming language is C++. 
 - The new syntax which I learned from this project are, 
   - [argc/argv](http://www.cplusplus.com/articles/DEN36Up4/) 
   - [this](https://stackoverflow.com/questions/16492736/what-is-the-this-pointer)
+  
+## Result (please click the thumbnails for viewing the video):
+[![PIDController video](https://img.youtube.com/vi/xv-AnkbR_LM/hqdefault.jpg)](https://youtu.be/xv-AnkbR_LM)
 
 ## To reviewer:
 - I see why the reviewer faced the issue to run simulation. 
