@@ -5,7 +5,7 @@ mathjax: true
 ---
 ![Behavioral_Cloning](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_Behavioral_cloning/behavioral_cloning_4gif.gif)
 ## Summary:
-- This project is to train model to steer the simulation vehicle to be on the right track. The input to the model measurement is steering angle collected from the pre-run. The vehicle image corresponding to the certain steering angle is stored. Then, the stored images are used to train the model so the angle will be anticipated when a image is collected while the vehicle is driving at actual run. 
+- This project is to train model to steer the simulation vehicle to be on the right track. The input to the model measurement is steering angle collected from the pre-run. The vehicle image corresponding to the certain steering angle is stored at the pre-run as well.Then, the stored images are used to train the model so the angle will be anticipated when a image is collected while the vehicle is driving at actual run. 
 
 ## Final result (please click the below thumbnail to play a video):
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/HOfHpUSmLMU/hqdefault.jpg)](https://youtu.be/HOfHpUSmLMU "BehavioralCloning")
