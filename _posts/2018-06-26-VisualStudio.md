@@ -11,6 +11,7 @@ mathjax: true
    - Turn off squggles @ VS options->Text Editor->C/C++>Advanced->Intellisense->Disable Squiggles "True"
    - VS code is also working with Unreal (4.18 or higher). 
    - How to set up VS code to use VS compiler is, 
+   
      -Go to File, Settings, type shell, then look for Edit in settings.json. 
    ![settings.json](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_VS/settings_VS_Code.png)
      -Look for where VsDevCmd.bat file is located, then type as shown below. 
