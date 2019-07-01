@@ -21,8 +21,12 @@ mathjax: true
    ![OpenInTerminal](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_VS/OpenInTerminal.png)   
      - How to close multiple command terminals:
    ![Dustbin](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_VS/Dustbin.png)   
-     - type "cl" command in terminal to see if the compiler sets correctly:
+     - Type "cl" command in terminal to see if the compiler sets correctly:
    ![cl_cmd](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_VS/cl_command.png)  
-    
+     - How to set up source code editor @ Unreal engine:
+   ![SourceCodeEditor](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_VS/source_code_editor.png)
+   
+   
+   
    
    
