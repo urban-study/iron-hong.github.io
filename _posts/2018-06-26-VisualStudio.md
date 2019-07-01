@@ -17,9 +17,9 @@ mathjax: true
    >
    >  - 6. How to set up VS code to use VS compiler is, 
    >       - go to File, Settings, type shell, then look for Edit in settings.json. 
-   [settings.json](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_VS/settings_VS_Code.png)
+   ![settings.json](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_VS/settings_VS_Code.png)
    >       - Look for where VsDevCmd.bat file is located, then type as shown below. 
-   [VSDevCmd.bat](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_VS/VSDevCmd.png)
+   ![VSDevCmd.bat](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_VS/VSDevCmd.png)
    
    
    
