@@ -14,8 +14,7 @@ mathjax: true
    
      -Go to File, Settings, type shell, then look for Edit in settings.json. 
    ![settings.json](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_VS/settings_VS_Code.png)
-     -Look for where VsDevCmd.bat file is located, then type as shown below. 
-   ![VSDevCmd.bat](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_VS/VsDevCmd.png)
-   
+     -Look for where VsDevCmd.bat file is located in your local path, then type as shown below:
+   ![VSDevCmd.bat](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_VS/VsDevCmd.png) 
    
    
