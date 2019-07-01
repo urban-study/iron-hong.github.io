@@ -19,6 +19,7 @@ mathjax: true
    ![VSDevCmd.bat](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_VS/VsDevCmd.png) 
      - You can also open the code in terminal, directly:
    ![OpenInTerminal](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_VS/OpenInTerminal.png)   
-     
+     - How to close multiple command terminals:
+   ![Dustbin](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/_VS/Dustbin.png)   
    
    
