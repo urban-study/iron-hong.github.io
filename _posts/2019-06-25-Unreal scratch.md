@@ -4,7 +4,7 @@ categories: post
 ---
 ![Unreal_example](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/Unreal_Scratch/ezgif.com-video-to-gif.gif)
 
-   - I have been practicing Unreal tool/C++ to create a small project. Here are some examples:
+   - I have been practicing Unreal tool/C++ to create few small projects. Here are some examples from the lecture I followed online lectures:
    
      - [Unreal#1](https://youtu.be/3-c662M4TWY)
      - [Unreal#2](https://youtu.be/zoBNX6o2wbY)
@@ -34,7 +34,7 @@ categories: post
         - [Quick start Unreal guide](https://docs.unrealengine.com/en-US/Programming/QuickStart/index.html)
         - [C++ programming in Unreal Engine (UE) 4.](https://docs.unrealengine.com/en-US/Programming/Introduction/index.html)
         - [C++ battery collector](https://www.youtube.com/watch?v=mSRov77hNR4&list=PLZlv_N0_O1gYup-gvJtMsgJqnEB_dGiM4&index=1)
-        - [Udemy Unreal C++](https://www.udemy.com/share/1000hGA0MSdVdUR3w=/)
+        - [Udemy Unreal C++](https://www.udemy.com/share/1000hGA0MSdVdUR3w=/): this is the best class to learn both C++ and Unreal
    
    
    
