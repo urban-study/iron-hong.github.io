@@ -1,5 +1,5 @@
 
-This is a minimum to learn in order to carry Unreal/C++ related project work:
+This is a minimum to learn in order to carry Unreal/C++ related project work (work in progress to add reference materials and put some comments):
 
 - Visual Studio and Visual Code IDEs (Integrated Development Environment) set up, some additional steps to expand features, and its associated useful shortcut keys
 - User Interface (UI) set up- i.e. HUD
