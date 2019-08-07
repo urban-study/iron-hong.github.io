@@ -123,5 +123,5 @@ int main()
 - Reference 
     
     - [Udacity C++ free course](https://classroom.udacity.com/courses/ud999)
-    - [Unreal C++ implementation](https://www.udemy.com/unrealengine-cpp/)
+    - [code complete book](http://jmvidal.cse.sc.edu/library/mcconnell04a.pdf)
     
