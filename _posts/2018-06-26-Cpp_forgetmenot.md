@@ -120,6 +120,21 @@ int main()
 	cout <<a;
 }
 ```
+
+- Reference vs. pointer
+
+|                                                                |Pointers|References|
+|:---                                                            |:-      |:-        |
+|what is stored|memory address|memory address|
+|can be re-assigned|Yes|No|
+|Can be null|Yes (use nullptr)|No, must be initialized|
+|Accessing contents|* ActorPtr|ActorRef| 
+|Accessing address|ActorPtr|&ActorRef|
+|Changing the address|ActorPtr = &Actor|Not allowed|
+|Changing the value|* ActorPtr = Actor|ActorRef = Actor|
+
+
+
 - Reference 
     
     - [Udacity C++ free course](https://classroom.udacity.com/courses/ud999)
