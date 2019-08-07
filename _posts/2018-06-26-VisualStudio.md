@@ -5,6 +5,10 @@ mathjax: true
 ---
 - I am putting few good tips for Visual Studio (VS) setting to work with Unreal engine. 
 
+   - Ctrl+k+c: comment the highlighted lines 
+   - Ctrl+k+u: uncomment the highlighted lines
+   - You can convert a line of code to a function by using this [method](https://www.udemy.com/unrealcourse/learn/lecture/4722784#questions/3494386). 
+   - [Visual studio layout tip] (https://docs.microsoft.com/en-us/visualstudio/ide/customizing-window-layouts-in-visual-studio?view=vs-2019)
    - [Setting up VS](https://docs.unrealengine.com/en-US/Programming/Development/VisualStudioSetup/index.html)
    - [Unreal VS extension](https://docs.unrealengine.com/en-US/Programming/Development/VisualStudioSetup/UnrealVS/index.html)
    - [Visual Assist- this is a paid s/w helps development](https://www.wholetomato.com/)
