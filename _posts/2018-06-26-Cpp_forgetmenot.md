@@ -133,6 +133,8 @@ int main()
 |Changing the address|ActorPtr = &Actor|Not allowed|
 |Changing the value|* ActorPtr = Actor|ActorRef = Actor|
 
+
+
 |Lefthand side item |Accessor|Examples|Remark|
 |:---      |:-      |:-        |:-|
 |Instance or reference|.|mygrab.grab()|access to member function (grab()) of mygrab class|
