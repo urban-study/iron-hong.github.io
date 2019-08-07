@@ -121,7 +121,7 @@ int main()
 }
 ```
 
-- Reference vs. pointer
+- Reference vs. pointer (1)
 
 |                                                                |Pointers|References|
 |:---                                                            |:-      |:-        |
@@ -133,7 +133,7 @@ int main()
 |Changing the address|ActorPtr = &Actor|Not allowed|
 |Changing the value|* ActorPtr = Actor|ActorRef = Actor|
 
-
+- Reference vs. pointer (2)
 
 |Lefthand side item |Accessor|Examples|Remark|
 |:---      |:-      |:-        |:-|
