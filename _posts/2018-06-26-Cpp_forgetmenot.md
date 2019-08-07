@@ -124,4 +124,8 @@ int main()
     
     - [Udacity C++ free course](https://classroom.udacity.com/courses/ud999)
     - [code complete book](http://jmvidal.cse.sc.edu/library/mcconnell04a.pdf)
+    - [Unreal C++ training materials from Udemy](https://drive.google.com/drive/folders/0B5G9Ci8uAEIrc0VoLVhiSzl3dEE)
+    - [Class inheritance](http://www.cplusplus.com/doc/tutorial/inheritance/)
+    - [Unreal coding standard](https://docs.unrealengine.com/en-US/Programming/Development/CodingStandard/index.html)
+    - [Preprocess directive](http://www.cplusplus.com/doc/tutorial/preprocessor/)
     
