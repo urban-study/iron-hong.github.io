@@ -4,7 +4,7 @@ categories: post
 ---
 ![Unreal_example](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/Unreal_Scratch/ezgif.com-video-to-gif.gif)
 
-   - I have been practicing Unreal tool/C++ to create few small projects. Here are some examples from the lecture I followed online lectures:
+   - I have been practicing Unreal tool/C++ to create few small projects. Here are some examples which I practiced:
    
      - [Unreal#1](https://youtu.be/3-c662M4TWY)
      - [Unreal#2](https://youtu.be/zoBNX6o2wbY)
