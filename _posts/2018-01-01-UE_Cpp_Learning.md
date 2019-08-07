@@ -1,5 +1,5 @@
 
-### things to learn:
+### Things to learn:
 
 This is a minimum to learn in order to carry Unreal Engine(UE)/C++ related project work 
 (work in progress to add reference materials, demo codes, and reference):
