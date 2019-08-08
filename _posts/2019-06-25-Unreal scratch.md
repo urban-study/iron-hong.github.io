@@ -4,7 +4,7 @@ categories: post
 ---
 ![Unreal_example](https://github.com/SeokLeeUS/seokleeus.github.io/raw/master/_images/Unreal_Scratch/ezgif.com-video-to-gif.gif)
 
-   - I have been practicing Unreal tool/C++ to create few small projects. Here are some examples which I practiced:
+   - I practiced Unreal tool/C++ by working on few small demo projects. Here are sample works for my record:
    
      - [Unreal#1](https://youtu.be/3-c662M4TWY)
      - [Unreal#2](https://youtu.be/zoBNX6o2wbY)
@@ -13,7 +13,7 @@ categories: post
      - [Unreal#5](https://github.com/SeokLeeUS/BattleTank/blob/master/README.md)
      - [Unreal#6](https://github.com/SeokLeeUS/RadarHUD/blob/master/README.md)
 
-   - Here is the learning materials which I have been practicing so far:
+   - The below is the list of the learning materials I have been referring to:
 
      - A.	[Getting started in Unreal Engine](https://academy.unrealengine.com/home/learningPath/90588)
         - [Your first hour with unreal engine](https://academy.unrealengine.com/home/learningPath/90588)
