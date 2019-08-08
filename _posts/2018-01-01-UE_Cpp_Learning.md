@@ -57,3 +57,5 @@ This is a minimum to learn in order to carry Unreal Engine(UE)/C++ related proje
 17.	This describes how to [control viewport](https://docs.unrealengine.com/en-US/Engine/UI/LevelEditor/Viewports/ViewportControls/index.html). 
 
 18.	This does describes UE [gameplay framework](http://www.tomlooman.com/ue4-gameplay-framework/). 
+
+19. [This](https://raw.githubusercontent.com/github/gitignore/master/UnrealEngine.gitignore) shows a good example of .gitignore which works for Unreal file structure. 
