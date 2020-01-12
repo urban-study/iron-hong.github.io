@@ -40,4 +40,4 @@ plugins:
  - jekyll-default-layout
  - jekyll-remote-theme
 
-theme: jekyll-theme-modernist
+theme: jekyll-theme-hacker
