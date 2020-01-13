@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "Read"
+permalink: "/read/"
 ---
 ## Life long learner
 
