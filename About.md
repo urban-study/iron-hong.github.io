@@ -1,0 +1,9 @@
+---
+title: "About"
+permalink: "/about/"
+---
+
+Iron Hong is a PhD student of Dept. of Environmental Planning at the Seoul National University. 
+His research interests include spatial statistics, inclusive planning and environmental policy. 
+Recently, he and his mentor, Professor In Kwon, Park(Link), are doing research for Urban Inclusion in major East Asian cities, 
+including Seoul, Beijing, Tokyo and Taipei.
