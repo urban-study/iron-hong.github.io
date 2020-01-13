@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: "/About/"
+layout: About
+title: "about"
 ---
 
 Iron Hong is a PhD student of Dept. of Environmental Planning at the Seoul National University. 
