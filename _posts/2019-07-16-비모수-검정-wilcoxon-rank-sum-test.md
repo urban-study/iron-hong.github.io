@@ -42,7 +42,9 @@ y <- c(0.878, 0.647, 0.598, 2.05, 1.06, 1.29, 1.06, 3.14, 1.29)
 wilcox.test(x, y, paired = TRUE, alternative = "greater")
 wilcox.test(y - x, alternative = "less")    # The same.
 ```
-```
+
+
+```{r}
 Wilcoxon signed rank test
 
 data:  x and y
