@@ -1,2 +1,2 @@
 # iron-hong.github.io
-My blog 👉
+My blog 👉 https://iron-hong.github.io/
