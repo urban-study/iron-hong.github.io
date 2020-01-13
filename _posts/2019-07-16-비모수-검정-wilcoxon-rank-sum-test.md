@@ -34,15 +34,12 @@ authors: []
 
 
 자료는 해밀턴 우울 척도를 이용하여 총 9명 우울증 환자에게 신경안정제 투약전(x)과 투약후(y) 간의 효과를 비교한 것이다.
-
-- R version:
 ```{r}
 x <- c(1.83,  0.50,  1.62,  2.48, 1.68, 1.88, 1.55, 3.06, 1.30)
 y <- c(0.878, 0.647, 0.598, 2.05, 1.06, 1.29, 1.06, 3.14, 1.29)
 wilcox.test(x, y, paired = TRUE, alternative = "greater")
 wilcox.test(y - x, alternative = "less")    # The same.
 ```
-
 
 ```{r}
 Wilcoxon signed rank test
